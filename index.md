@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: picture.jpg
 ---
-I am a Research Scientist at [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). Before that, I was with the Computer Vision Research Group (CVRG) at [Data61](http://www.data61.csiro.au/), [CSIRO](http://www.csiro.au/) (Commonwealth Scientific and Industrial Research Organization). I am also an Adjunct Lecturer at [College of Electrical & Computer Science](http://cecs.anu.edu.au/) (CECS), [Australian National University](https://www.anu.edu.au/) (ANU).<br><br>
+I am a Senior Scientist at [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). Before that, I was with the Computer Vision Research Group (CVRG) at [Data61](http://www.data61.csiro.au/), [CSIRO](http://www.csiro.au/) (Commonwealth Scientific and Industrial Research Organization). I am also an Adjunct Lecturer at [College of Electrical & Computer Science](http://cecs.anu.edu.au/) (CECS), [Australian National University](https://www.anu.edu.au/) (ANU).<br><br>
 
 
 Previosuly, I completed my PhD in Computer Vision from [The University of Western Australia](https://www.uwa.edu.au/) (UWA), under the supervision of [W/Prof. Mohammed Bennamoun](https://staffhome.ecm.uwa.edu.au/~00051632/). My PhD thesis received `[Honorable Mention on the Dean's List](http://www.postgraduate.uwa.edu.au/students/funding/prizes/board-of-the-graduate-research-school-deans-list)' award at the UWA. I also completed an internship at [NICTA](https://en.wikipedia.org/wiki/NICTA) (National ICT Australia) in 2015 and served as an research affiliate with [Australian Center for Robotic Vision](https://www.roboticvision.org/) (ACRV) during 2016-18.
