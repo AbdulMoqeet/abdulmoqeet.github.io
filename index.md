@@ -13,23 +13,23 @@ Previosuly, I completed my PhD in Computer Vision from [The University of Wester
 
 # News!
 
+* We have claimed the 2nd position in CVPR-NTIRE 2019 Image Enhancement Challenge [Apr'19]
 * Two papers on 3D generative modelling and Class imabalance learning accepted in CVPR'19! [Feb'19]
 * Paper on Spectral Dropout accpeted in Neural Networks [Sep'18]
 * Our paper on ZSL accepted in IEEE TIP [Jul'18]
 * One paper accepted each in BMVC and WACV 2018. [Jul'18]
 * Our work on "Zero-shot detection" is now available: [Project Page](https://salman-h-khan.github.io/ProjectPages/ZSD_Arxiv18) [Apr'18]
 * Our book titled "A Guide to CNNs for Computer Vision" has been published [Feb'18]
+* One paper accepted in ICCV 2017, Venice, Italy [Jul'17]
+* Our paper on cost-sensitive deep learning will appear in IEEE TNNLS [Jul'17]
+* Paper on image-set classification has been accepted by IJCV [Apr'17]
+* One paper accepted in CVPR 2017, Hawaii, USA [Mar'17]
+* One paper accepted in IJCAI 2017, Melbourne, Australia [Apr'17]
+* My paper on change detection has been accepted by IEEE TGRS. [May'17]
+* Our paper on image-set classification has been accepted by IJCV, Springer [Feb'17]
 
-[//]: * One paper accepted in ICCV 2017, Venice, Italy [Jul'17]
-[//]: * Our paper on cost-sensitive deep learning will appear in IEEE TNNLS [Jul'17]
-[//]: * Paper on image-set classification has been accepted by IJCV [Apr'17]
-[//]: # * One paper accepted in CVPR 2017, Hawaii, USA [Mar'17]
-[//]: # * One paper accepted in IJCAI 2017, Melbourne, Australia [Apr'17]
-[//]: # * My paper on change detection has been accepted by IEEE TGRS. [May'17]
-[//]: # * Our paper on image-set classification has been accepted by IJCV, Springer [Feb'17]
 [//]: # * Two papers on scene classification accepted for publication in IEEE TIP. [Jul'16]
 [//]: # * My paper on shadow detection and removal has now been accepted by IEEE TPAMI. [Nov'15]
 [//]: # * My paper on semantic labeling of indoor scenes has now been accepted by IJCV, Springer. [Oct'15]
 [//]: # * One paper accepted in ICCV 2015, Santiago, Chile. [Aug'15]
 [//]: # * My cuboid detection paper will appear in IEEE CVPR 2015, Boston. [Jun'15]
-
