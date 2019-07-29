@@ -13,9 +13,10 @@ Previosuly, I completed my PhD in Computer Vision from [The University of Wester
 
 # News!
 
+* Four papers accepted in upcoming ICCV'19 (including 1 oral). Congratulations to Aamir, Shafin and Sudong! [Jul'19]
 * Selected for the '[Outstanding Reviewer Award](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)' at CVPR'19 [May'19]
 * We have claimed 2nd position in CVPR-NTIRE 2019 Image Enhancement Challenge [Apr'19]
-* Two papers on 3D generative modelling and Class imabalance learning accepted in CVPR'19! [Feb'19]
+* Two papers on 3D generative modelling and Class imbalance learning accepted in CVPR'19! [Feb'19]
 * Paper on Spectral Dropout accpeted in Neural Networks [Sep'18]
 * Our paper on ZSL accepted in IEEE TIP [Jul'18]
 * One paper accepted each in BMVC and WACV 2018. [Jul'18]
