@@ -13,7 +13,7 @@ I completed my PhD in Computer Vision from [The University of Western Australia]
 
 # News!
 
-* Large-scale Instance [Segmentation Dataset for Aerial Images](https://captain-whu.github.io/iSAID/index.html) (iSAID) available for download. [Aug'19]
+* Large-scale [Instance Segmentation Dataset for Aerial Images](https://captain-whu.github.io/iSAID/index.html) (iSAID) available for download. [Aug'19]
 * Four papers accepted in upcoming ICCV'19 (including 1 oral). Congratulations to Aamir, Shafin and Sudong! [Jul'19]
 * Selected for the '[Outstanding Reviewer Award](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)' at CVPR'19 [May'19]
 * We have claimed 2nd position in CVPR-NTIRE 2019 Image Enhancement Challenge [Apr'19]
