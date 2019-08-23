@@ -6,17 +6,18 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: picture.jpg
 ---
-I am a Senior Scientist at [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). Before that, I was a Research Scientist in the Computer Vision Research Group (CVRG) at [Data61](http://www.data61.csiro.au/), [CSIRO](http://www.csiro.au/) (Commonwealth Scientific and Industrial Research Organization). I am also an Adjunct Lecturer at [College of Electrical & Computer Science](http://cecs.anu.edu.au/) (CECS), [Australian National University](https://www.anu.edu.au/) (ANU).<br><br>
+I am a Senior Scientist at [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). Previously, I was a Research Scientist in the Computer Vision Research Group (CVRG) at [Data61](http://www.data61.csiro.au/), [CSIRO](http://www.csiro.au/) (Commonwealth Scientific and Industrial Research Organization). I am also an Adjunct Lecturer at [College of Electrical & Computer Science](http://cecs.anu.edu.au/) (CECS), [Australian National University](https://www.anu.edu.au/) (ANU).<br><br>
 
 
-Previosuly, I completed my PhD in Computer Vision from [The University of Western Australia](https://www.uwa.edu.au/) (UWA), under the supervision of [W/Prof. Mohammed Bennamoun](https://scholar.google.ae/citations?user=ylX5MEAAAAAJ&hl=en). My PhD thesis received `[Honorable Mention on the Dean's List](http://www.postgraduate.uwa.edu.au/students/funding/prizes/board-of-the-graduate-research-school-deans-list)' award at the UWA. I also completed an internship at [NICTA](https://en.wikipedia.org/wiki/NICTA) (National ICT Australia) in 2015 and served as an research affiliate with [Australian Center for Robotic Vision](https://www.roboticvision.org/) (ACRV) during 2016-18.
+I completed my PhD in Computer Vision from [The University of Western Australia](https://www.uwa.edu.au/) (UWA), under the supervision of [W/Prof. Mohammed Bennamoun](https://scholar.google.ae/citations?user=ylX5MEAAAAAJ&hl=en). My PhD thesis received `[Honorable Mention on the Dean's List](http://www.postgraduate.uwa.edu.au/students/funding/prizes/board-of-the-graduate-research-school-deans-list)' award at the UWA. I also completed an internship at [NICTA](https://en.wikipedia.org/wiki/NICTA) (National ICT Australia) in 2015 and served as an research affiliate with [Australian Center for Robotic Vision](https://www.roboticvision.org/) (ACRV) during 2016-18.
 
 # News!
 
+* Large-scale Instance [Segmentation Dataset for Aerial Images](https://captain-whu.github.io/iSAID/index.html) (iSAID) available for download. [Aug'19]
 * Four papers accepted in upcoming ICCV'19 (including 1 oral). Congratulations to Aamir, Shafin and Sudong! [Jul'19]
 * Selected for the '[Outstanding Reviewer Award](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)' at CVPR'19 [May'19]
 * We have claimed 2nd position in CVPR-NTIRE 2019 Image Enhancement Challenge [Apr'19]
-* Two papers on 3D generative modelling and Class imbalance learning accepted in CVPR'19! [Feb'19]
+* Two papers (1 oral, 1 poster) accepted in CVPR'19! [Feb'19]
 * Paper on Spectral Dropout accpeted in Neural Networks [Sep'18]
 * Our paper on ZSL accepted in IEEE TIP [Jul'18]
 * One paper accepted each in BMVC and WACV 2018. [Jul'18]
