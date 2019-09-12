@@ -13,7 +13,7 @@ I completed my PhD in Computer Vision from [The University of Western Australia]
 
 # News!
 
-* Two papers accepted in NeurIPS'19. Congratulations to Jathushan and Muzammal! [Sep'19]
+* Two papers accepted in NeurIPS'19, Vancouver. Congratulations to Jathushan and Muzammal! [Sep'19]
 * A [Large-scale Instance Segmentation Dataset for Aerial Images](https://captain-whu.github.io/iSAID/index.html) (iSAID) is available for download. [Aug'19]
 * Four papers accepted in upcoming ICCV'19 (including 1 oral). Congratulations to Aamir, Shafin and Sudong! [Jul'19]
 * Selected for the '[Outstanding Reviewer Award](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)' at CVPR'19 [May'19]
