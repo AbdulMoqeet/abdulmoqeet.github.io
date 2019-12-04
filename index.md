@@ -13,6 +13,7 @@ I completed my PhD in Computer Vision from [The University of Western Australia]
 
 # News!
 
+* Paper accepted in IJCV. Congratulations to Sameera! [Dec'19]
 * Our work on fine-grained recognition and zero-shot detection is accepted in AAAI'20, New York. [Nov'19] 
 * Two papers accepted in NeurIPS'19, Vancouver. Congratulations to Jathushan and Muzammal! [Sep'19]
 * A [Large-scale Instance Segmentation Dataset for Aerial Images](https://captain-whu.github.io/iSAID/index.html) (iSAID) is available for download. [Aug'19]
