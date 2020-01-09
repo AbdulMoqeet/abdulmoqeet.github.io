@@ -4,7 +4,7 @@ title:
 description: "Salman Khan's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: picture.jpg
+  <!-- feature: picture.jpg -->
 ---
 I am a Senior Scientist at [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). Previously, I was a Research Scientist in the Computer Vision Research Group (CVRG) at [Data61](http://www.data61.csiro.au/), [CSIRO](http://www.csiro.au/) (Commonwealth Scientific and Industrial Research Organization). I am also an Adjunct Lecturer at [College of Electrical & Computer Science](http://cecs.anu.edu.au/) (CECS), [Australian National University](https://www.anu.edu.au/) (ANU).<br><br>
 
