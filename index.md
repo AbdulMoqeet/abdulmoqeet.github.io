@@ -13,6 +13,7 @@ I completed my PhD in Computer Vision from [The University of Western Australia]
 
 # News!
 
+* A paper accepted in TPAMI on adversarial defense. [Mar'20]
 * Our paper won the best student paper award at ICPRAM'20. Congratulations to Sameera. [Feb'20]
 * Five papers accepted at CVPR'20. Congratulations to Muzammal, Jathushan, Yaxing, Waqas and Haris. [Feb'20]
 * Paper accepted in IJCV. Congratulations to Sameera! [Dec'19]
