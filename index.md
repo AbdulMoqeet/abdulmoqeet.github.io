@@ -14,8 +14,9 @@ I completed my PhD in Computer Vision from [The University of Western Australia]
 # News!
 
 * A paper accepted in TPAMI on adversarial defense. [Mar'20]
+* Five papers accepted at CVPR'20 (2 orals). Congratulations to Muzammal, Jathushan, Yaxing, Waqas and Haris. [Mar'20]
+* A paper accepted in ACM Computing Surveys. [Mar'20]
 * Our paper won the best student paper award at ICPRAM'20. Congratulations to Sameera. [Feb'20]
-* Five papers accepted at CVPR'20 (2 orals). Congratulations to Muzammal, Jathushan, Yaxing, Waqas and Haris. [Feb'20]
 * Paper accepted in IJCV. Congratulations to Sameera! [Dec'19]
 * Our papers on fine-grained recognition and zero-shot detection are accepted in AAAI'20, New York. [Nov'19] 
 * Two papers accepted in NeurIPS'19, Vancouver. Congratulations to Jathushan and Muzammal! [Sep'19]
