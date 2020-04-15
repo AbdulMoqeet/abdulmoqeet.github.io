@@ -19,11 +19,11 @@ image:
 
 * Accepted as <b>ICLR 2020</b> Volunteer [Apr'20]
 
+* Paper submitted to <b>ECCV 2020</b> [Mar'20]
+
 * Our paper submitted to <b>IEEE Access</b> journal (IF 4.089) [Mar'20]
 
-* Our paper submitted to <b>Pattern Recognition</b> journal (IF 5.898) [Mar'20]
-
-* Paper submitted to <b>ECCV 2020</b> [Mar'20]
+* Our paper submitted to <b>Pattern Recognition</b> journal (IF 5.898) [Feb'20]
 
 * Will be joining the <b>Stars team @ INRIA</b> in June, 2020. [Feb'20]
 
