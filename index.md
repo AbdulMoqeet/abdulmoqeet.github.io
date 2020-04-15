@@ -13,21 +13,21 @@ image:
 
 # News!
 
-* Our paper submitted to IEEE Access journal (IF 4.089) [Apr'20]
+* Our paper submitted to <b>IEEE Access</b> journal (IF 4.089) [Apr'20]
 
-* Invited to review papers IEEE Access journal (IF 4.089) [Apr'20]
+* Invited to review papers <b>IEEE Access</b> journal (IF 4.089) [Apr'20]
 
-* Accepted as ICLR 2020 Volunteer [Apr'20]
+* Accepted as <b>ICLR 2020</b> Volunteer [Apr'20]
 
-* Our paper submitted to IEEE Access journal (IF 4.089) [Mar'20]
+* Our paper submitted to <b>IEEE Access</b> journal (IF 4.089) [Mar'20]
 
-* Our paper submitted to Pattern Recognition journal (IF 5.898) [Mar'20]
+* Our paper submitted to <b>Pattern Recognition</b> journal (IF 5.898) [Mar'20]
 
-* Paper submitted to ECCV [Mar'20]
+* Paper submitted to <b>ECCV 2020</b> [Mar'20]
 
-* Will be joining the Stars team @ INRIA in June, 2020. [Feb'20]
+* Will be joining the <b>Stars team @ INRIA</b> in June, 2020. [Feb'20]
 
 * A paper accepted in Conference of Multimedia Modeling (MMM) 2020 [2019]
 
-* A paper accepted in IEEE Access journal (IF 4.089)[2019]
+* A paper accepted in <b>IEEE Access</b> journal (IF 4.089)[2019]
 
