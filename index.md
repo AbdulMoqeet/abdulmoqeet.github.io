@@ -15,7 +15,7 @@ image:
 
 * Our paper submitted to <b>IEEE Access</b> journal (IF 4.089) [Apr'20]
 
-* Invited to review papers <b>IEEE Access</b> journal (IF 4.089) [Apr'20]
+* <b>IEEE Access</b> journal reviewer (IF 4.089) [Apr'20]
 
 * Accepted as <b>ICLR 2020</b> Volunteer [Apr'20]
 
