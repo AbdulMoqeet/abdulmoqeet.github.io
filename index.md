@@ -11,7 +11,6 @@ I am final year MS student, working on efficient deep learning models for image 
 You can also download my [full CV](https://drive.google.com/file/d/12jhPEmOwAXEV75vj5saGoPk4z6EGpFt0).
 <br>
 
-I will be joining the Stars team @ INRIA in July, 2020.  
 <br>
   
  
@@ -30,6 +29,8 @@ I will be joining the Stars team @ INRIA in July, 2020.
 * Our paper submitted to Pattern Recognition journal (IF 5.898) [Mar'20]
 
 * Paper submitted to ECCV [Mar'20]
+
+* Will be joining the Stars team @ INRIA in June, 2020. [Feb'20]
 
 * A paper accepted in Conference of Multimedia Modeling (MMM) 2020 [2019]
 
