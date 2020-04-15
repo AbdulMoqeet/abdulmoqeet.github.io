@@ -1,51 +1,35 @@
 title:            
 description:      My academic webpage.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://salman-h-khan.github.io
+url:              https://abdulmoqeet.github.io
 
 # Owner/author information
 owner:
-  name:           Salman Khan
-  avatar:         salman.png 
-  bio:            I'm a computer vision researcher affiliated with IIAI and ANU.
-  email:          salman.khan(at)inceptioniai.org
+  name:           Abdul Muqeet
+  avatar:         muqeet.png 
+  bio:            I'm a Master student at Kyung Hee University, South Korea. My research interests include interpretation of deep learning networks for computer vision applications.
+  email:         amuqeet(at)khu.ac.kr
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: jponttuset
-  linkedin: salman-hameed-khan-12184128
-  google_scholar: M59O9lkAAAAJ
+  linkedin: am14
+  google_scholar: -BBpuKMAAAAJ
   #google_plus: 113718226018314522413
   #github: jponttuset
   
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-52736040-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
   #- title: Home
   #  url: /
-  - title: Research
-    url: /research/
   - title: Publications
     url: /publications/
-  - title: Code & Data
-    url: /code_data/
   #- title: For Students
   #  url: /scholarships/
   #- title: For Students
   #  url: /students_/
-  #- title: CV
-  #  url: /cv_/
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Australia/ACT
-future:      true
-#pygments:    true
-highlighter: rouge
-markdown:    kramdown
+  - title: CV
+    url: /cv_/
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
