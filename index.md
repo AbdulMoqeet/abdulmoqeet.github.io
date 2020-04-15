@@ -8,20 +8,18 @@ image:
 ---
 <p>I am final year MS student, working on efficient deep learning models for image restoration, under the supervision of <a href="https://scholar.google.com/citations?user=EULut5oAAAAJ">Dr. Sung-Ho Bae</a> at Kyung Hee University, South Korea. Before that, I received the BS degree in Computer Science, from University of Karachi, Pakistan. </p>
   
+  I will be joining Stars team @ INRIA in July, 2020.  
+  
  You can also download my [full CV](https://drive.google.com/file/d/12jhPEmOwAXEV75vj5saGoPk4z6EGpFt0).
 
-
-  
-<h3>Personal website</h3>
-<ul>
-  <li><p><a href="https://scholar.google.com/citations?user=-BBpuKMAAAAJ">[Google Scholar]</a></p></li>
-  <li><p><a href="https://www.researchgate.net/profile/Abdul_Muqeet10">[ResearchGate]</a></p></li>
-  <li><p><a href="https://github.com/AbdulMoqeet">[Github]</a></p></li>
-</ul>
 
 # News!
 
 * Our paper submitted to IEEE Access journal (IF 4.089) [Apr'20]
+
+* Invited to review papers IEEE Access journal (IF 4.089) [Apr'20]
+
+* Accepted as ICLR 2020 Volunteer [Apr'20]
 
 * Our paper submitted to IEEE Access journal (IF 4.089) [Mar'20]
 
