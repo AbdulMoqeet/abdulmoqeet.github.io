@@ -20,12 +20,6 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  #- title: Home
-  #  url: /
-  #- title: For Students
-  #  url: /scholarships/
-  #- title: For Students
-  #  url: /students_/
   - title: CV
     url: /cv_/
 
