@@ -31,3 +31,5 @@ image:
 
 * A paper accepted in <b>IEEE Access</b> journal (IF 4.089)[2019]
 
+* Our paper accepted in <b>IEEE International Conference on Information and Communication Technologies (ICICT)</b> [2019]
+
