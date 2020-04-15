@@ -19,9 +19,9 @@ owner:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: CV
-    url: /cv_/
+#links:
+#  - title: CV
+#    url: /cv_/
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
