@@ -7,7 +7,7 @@ image:
   <!-- feature: picture.jpg -->
 ---
 <p>I am final year MS student, working on efficient deep learning models for image restoration, under the supervision of <a href="https://scholar.google.com/citations?user=EULut5oAAAAJ">Dr. Sung-Ho Bae</a> at Kyung Hee University, South Korea. Before that, I received the BS degree in Computer Science, from University of Karachi, Pakistan. </p>
-<p>You can also download my [full CV](https://drive.google.com/file/d/12jhPEmOwAXEV75vj5saGoPk4z6EGpFt0).</p>
+<p>You can also download my <a href="https://drive.google.com/file/d/12jhPEmOwAXEV75vj5saGoPk4z6EGpFt0">full CV</a>.</p>
  
 
 
