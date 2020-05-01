@@ -22,9 +22,9 @@ image:
 
 * Paper submitted to <b>ECCV 2020</b> [Mar'20]
 
-* Our paper submitted to <b>IEEE Access</b> journal (IF 4.089) [Mar'20]
+* Our paper submitted to <strong style="color:blue;">IEEE Access</strong> journal (IF 4.089) [Mar'20]
 
-* Our paper submitted to <b>Pattern Recognition</b> journal (IF 5.898) [Feb'20]
+* Our paper submitted to <strong style="color:blue;">Pattern Recognition</strong> journal (IF 5.898) [Feb'20]
 
 * Will be joining the <b>Stars team @ INRIA</b> in June, 2020. [Feb'20]
 
