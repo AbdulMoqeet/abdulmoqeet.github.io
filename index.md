@@ -14,11 +14,11 @@ image:
 
 # News!
 
-* Our paper submitted to <b>IEEE Access</b> journal (IF 4.089) [Apr'20]
+* Our paper submitted to <strong style="color:blue;">IEEE Access</strong> journal (IF 4.089) [Apr'20]
 
 * <b>IEEE Access</b> journal reviewer (IF 4.089) [Apr'20]
 
-* Volunteering at <b>ICLR 2020</b> [Apr'20]
+* Volunteering at <strong style="color:blue;">ICLR 2020</strong> [Apr'20]
 
 * Paper submitted to <b>ECCV 2020</b> [Mar'20]
 
@@ -26,11 +26,11 @@ image:
 
 * Our paper submitted to <strong style="color:blue;">Pattern Recognition</strong> journal (IF 5.898) [Feb'20]
 
-* Will be joining the <b>Stars team @ INRIA</b> in June, 2020. [Feb'20]
+* Will be joining the <strong style="color:blue;">Stars team @ INRIA</strong> in June, 2020. [Feb'20]
 
 * A paper accepted in Conference of Multimedia Modeling (MMM) 2020 [2019]
 
-* A paper accepted in <b>IEEE Access</b> journal (IF 4.089) [2019] <a href="https://github.com/AbdulMoqeet/HRAN">[Project Page]</a>
+* A paper accepted in <strong style="color:blue;">IEEE Access</strong> journal (IF 4.089) [2019] <a href="https://github.com/AbdulMoqeet/HRAN">[Project Page]</a>
 
 * Our paper accepted in <b>IEEE International Conference on Information and Communication Technologies (ICICT)</b> [2019]
 
