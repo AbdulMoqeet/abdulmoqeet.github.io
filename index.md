@@ -26,7 +26,7 @@ image:
 
 * Our paper submitted to <strong style="color:blue;">Pattern Recognition</strong> journal (IF 5.898) [Feb'20]
 
-* Will be joining the <strong style="color:blue;">Stars team @ INRIA</strong> in June, 2020. [Feb'20]
+* Accepted the internship offer of <strong style="color:blue;">Stars team @ INRIA</strong>. [Feb'20]
 
 * A paper accepted in Conference of Multimedia Modeling (MMM) 2020 [2019]
 
