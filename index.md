@@ -20,7 +20,7 @@ image:
 
 * Volunteering at <strong style="color:blue;">ICLR 2020</strong> [Apr'20]
 
-* Paper submitted to <b>ECCV 2020</b> [Mar'20]
+* Paper submitted to <strong style="color:blue;">ECCV 2020</strong> [Mar'20]
 
 * Our paper submitted to <strong style="color:blue;">IEEE Access</strong> journal (IF 4.089) [Mar'20]
 
