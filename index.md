@@ -6,13 +6,15 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   <!-- feature: picture.jpg -->
 ---
-<p>I am final year MS student, working on efficient deep learning models for image restoration, under the supervision of <a href="https://scholar.google.com/citations?user=EULut5oAAAAJ">Dr. Sung-Ho Bae</a> at Kyung Hee University, South Korea. Before that, I received the BS degree in Computer Science, from University of Karachi, Pakistan. </p>
+<p>I am final year MS student, working on efficient deep learning models for image restoration, under the supervision of <a href="https://scholar.google.com/citations?user=EULut5oAAAAJ">Dr. Sung-Ho Bae</a> at Kyung Hee University, South Korea. Before that, I received the BS degree in Computer Science, from University of Karachi, Pakistan. I like to work on inverse problems or those problems contisting multi-modalities through unsupervised or semi-supervised machine learning techniques. </p> 
 
 <p>You can also download my CV <a href="https://drive.google.com/file/d/12jhPEmOwAXEV75vj5saGoPk4z6EGpFt0">here</a> and see the published papers <a href ="https://scholar.google.com/citations?user=-BBpuKMAAAAJ&hl=en&oi=ao">here</a>.</p>
  
 
 
 # News!
+
+* Paper submitted to <strong style="color:blue;">NeurIPS 2020</strong> [May'20]
 
 * Our paper submitted to <strong style="color:blue;">IEEE Access</strong> journal (IF 4.089) [Apr'20]
 
