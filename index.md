@@ -15,8 +15,6 @@ image:
 
 # News!
 
-* Paper submitted to <strong style="color:blue;">NeurIPS 2020</strong> [May'20]
-
 * Our paper submitted to <strong style="color:blue;">IEEE Access</strong> journal (IF 4.089) [Apr'20]
 
 * <b>IEEE Access</b> journal reviewer (IF 4.089) [Apr'20]
