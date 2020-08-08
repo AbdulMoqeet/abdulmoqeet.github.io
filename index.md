@@ -19,7 +19,7 @@ image:
 
 * Our paper accepted in <strong style="color:blue;">IEEE Access</strong> journal.  [Aug'20]
 
-* We participated in <strong style="color:blue;">AIM2020 challange</strong> and won 1st in memory consumptions, 3rd in Flops and 4th in Parameters.  [July'20]
+* We participated in <strong style="color:blue;">AIM2020 challange</strong> and won 1st in reducing memory consumptions, 3rd in FLOPs and 4th in Parameters.  [July'20]
 
 * Springer's journal <b> Human-centric Computing and Information Sciences</b> reviewer (IF 3.70) [July'20]
 
