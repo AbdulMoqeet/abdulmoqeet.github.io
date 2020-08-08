@@ -15,6 +15,10 @@ image:
 
 # News!
 
+* Our paper accepted in <strong style="color:blue;">ECCV workshop AIM2020 </strong> [Aug'20]
+
+* We participated in <strong style="color:blue;">AIM2020 challange on effficient super-resolution </strong> and won 1st in memory consumptions, 3rd in Flops and 4th in Parameters.  [May'20]
+
 * Our paper submitted to <strong style="color:blue;">IEEE Access</strong> journal (IF 4.089) [Apr'20]
 
 * <b>IEEE Access</b> journal reviewer (IF 4.089) [Apr'20]
