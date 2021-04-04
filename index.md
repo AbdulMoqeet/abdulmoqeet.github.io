@@ -15,6 +15,8 @@ image:
 
 # News!
 
+* Our paper accepted in <strong style="color:blue;">IEEE Access</strong> journal.  [Nov'20]
+
 * Our paper accepted in <strong style="color:blue;">AIM2020 workshop at ECCV</strong> [Aug'20]
 
 * Our paper accepted in <strong style="color:blue;">IEEE Access</strong> journal.  [Aug'20]
