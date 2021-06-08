@@ -9,7 +9,7 @@ image:
 <p>I have completed my MS degree in Computer Science (with machine learning and computer vision as majors) from Kyung Hee University, South Korea. Before that, I received the BS degree in Computer Science from University of Karachi, Pakistan. I like to work on the unexplored problems of deep learning methods. </p> 
 
 <br/>
-<p>You can also download my CV <a href="https://drive.google.com/file/d/14B8KmyBMoBg7XZOEcBbmsV1QZAWsTwRL/view?usp=sharing">here</a> and see the published papers <a href ="https://scholar.google.com/citations?user=-BBpuKMAAAAJ&hl=en&oi=ao">here</a>.</p>
+<p>You can also download my CV <a href="https://drive.google.com/file/d/1B7L2ZggULLCR34B5zeGqlnL7qdc0vXIx/view?usp=sharing">here</a> and see the published papers <a href ="https://scholar.google.com/citations?user=-BBpuKMAAAAJ&hl=en&oi=ao">here</a>.</p>
  
 
 
