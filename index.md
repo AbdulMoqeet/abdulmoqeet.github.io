@@ -6,10 +6,11 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   <!-- feature: picture.jpg -->
 ---
-<p>I have completed my MS degree in Computer Science (with machine learning and computer vision as majors) under the supervision of <a href="https://scholar.google.co.kr/citations?user=EULut5oAAAAJ">Dr. Sung-Ho Bae</a> from Kyung Hee University, South Korea. Before that, I received the BS degree in Computer Science from University of Karachi, Pakistan. I like to work on the unexplored problems of deep learning methods. </p> 
+
+<p>I'm a machine learning researcher at <a href="http://www.saenoon.co.kr/">Saenoon</a> where I am responsible to develop deep learning solutions for CCTV applications. Before that, I received my MS degree in Computer Science from the machine learning and visual computing lab under the supervision of <a href="https://scholar.google.co.kr/citations?user=EULut5oAAAAJ">Dr. Sung-Ho Bae</a> from Kyung Hee University, South Korea. My research interests include exploring machine learning models (1) that require less or no data (2) that leverage multiple modalities.</p> 
 
 <br/>
-<p>You can also download my CV <a href="https://drive.google.com/file/d/1B7L2ZggULLCR34B5zeGqlnL7qdc0vXIx/view?usp=sharing">here</a> and see the published papers <a href ="https://scholar.google.com/citations?user=-BBpuKMAAAAJ&hl=en&oi=ao">here</a>.</p>
+<p>You can view my CV <a href="https://drive.google.com/file/d/1B7L2ZggULLCR34B5zeGqlnL7qdc0vXIx/view?usp=sharing">here</a> and see the published papers on <a href ="https://scholar.google.com/citations?user=-BBpuKMAAAAJ&hl=en&oi=ao">Google Scholar</a>.</p>
  
 
 
