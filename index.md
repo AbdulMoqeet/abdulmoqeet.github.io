@@ -16,6 +16,8 @@ image:
 
 # News!
 
+* Our paper submitted to <strong style="color:blue;">IEEE Transactions on Neural Networks and Learning Systems</strong> journal (IF 10.451) [Nov'21]
+
 * Our paper accepted in <strong style="color:blue;">IEEE Access</strong> journal.  [Nov'20]
 
 * Our paper accepted in <strong style="color:blue;">AIM2020 workshop at ECCV</strong> [Aug'20]
@@ -35,8 +37,6 @@ image:
 * Paper submitted to <strong style="color:blue;">ECCV 2020</strong> [Mar'20]
 
 * Our paper submitted to <strong style="color:blue;">IEEE Access</strong> journal (IF 4.089) [Mar'20]
-
-* Our paper submitted to <strong style="color:blue;">Pattern Recognition</strong> journal (IF 5.898) [Feb'20]
 
 * Awarded an internship from <strong style="color:blue;">Stars team @ INRIA</strong>. [2020]
 
