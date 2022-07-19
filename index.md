@@ -16,7 +16,7 @@ image:
 
 # News!
 
-* Our paper submitted to <strong style="color:blue;">IEEE Transactions on Neural Networks and Learning Systems</strong> journal (IF 10.451) [Nov'21]
+* Our paper accepted in <strong style="color:blue;">IEEE Access</strong> journal.  [July'22]
 
 * Our paper accepted in <strong style="color:blue;">IEEE Access</strong> journal.  [Nov'20]
 
